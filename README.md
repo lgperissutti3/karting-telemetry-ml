@@ -1,5 +1,3 @@
-# karting-telemetry-ml
-Proyecto académico de Machine Learning aplicado a telemetría real de karting. Ingeniería de características por curva y evaluación de modelos con separación por tandas.
 # Machine Learning aplicado a telemetría de karting
 
 Proyecto final integrador de la materia **Aprendizaje de Máquina** de Ingeniería en Inteligencia Artificial, Universidad de Palermo.
