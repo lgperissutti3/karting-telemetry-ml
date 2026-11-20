@@ -87,4 +87,4 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib y Scikit-learn.
 
 Los datos originales de los pilotos no se publican por privacidad.
 
-El notebook se incorporará después de revisar su contenido y sus salidas. Sin el dataset, será posible consultar el procedimiento y los resultados guardados, pero no reproducir la ejecución completa.
+Por confidencialidad de la telemetría de los pilotos no se publicará el dataset. Sin el dataset, será posible consultar el procedimiento y los resultados guardados, pero no reproducir la ejecución completa.
