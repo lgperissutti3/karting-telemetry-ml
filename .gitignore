@@ -1,0 +1,16 @@
+# Datos privados de telemetría
+*.csv
+*.zip
+*.xrk
+*.drk
+*.zwk
+data/
+datos/
+
+# Archivos temporales y entorno local
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+.DS_Store
