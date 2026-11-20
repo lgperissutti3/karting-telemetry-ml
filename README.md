@@ -83,6 +83,4 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib y Scikit-learn.
 
 ## Disponibilidad de los datos
 
-Los datos originales de los pilotos no se publican por privacidad.
-
 Por confidencialidad de la telemetría de los pilotos no se publicará el dataset. Sin el dataset, será posible consultar el procedimiento y los resultados guardados, pero no reproducir la ejecución completa.
